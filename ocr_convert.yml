@@ -1,0 +1,51 @@
+name: Complete OCR to Word & PDF Converter
+
+on:
+  push:
+    paths:
+      - 'input/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert_documents:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install System Dependencies (Tesseract, Poppler, OpenCV libs)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr libtesseract-dev poppler-utils libgl1 libglib2.0-0
+
+      - name: Install Python Libraries
+        run: |
+          pip install numpy opencv-python-headless pytesseract pillow pdf2image pyspellchecker PyMuPDF pdf2docx
+
+      - name: Run OCR & Conversion Script
+        run: python process_ocr.py
+
+      - name: Create Downloadable ZIP (Artifact)
+        uses: actions/upload-artifact@v4
+        with:
+          name: Converted-Word-and-PDF-Files
+          path: |
+            output_word/
+            output_pdf/
+          if-no-files-found: ignore
+
+      - name: Save Converted Files Back to Repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add input/ output_word/ output_pdf/ processed_archive/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-converted documents & archived input" && git push)
