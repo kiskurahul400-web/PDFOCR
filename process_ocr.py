@@ -22,11 +22,11 @@ for folder in [INPUT_DIR, OUT_WORD_DIR, OUT_PDF_DIR, ARCHIVE_DIR]:
 spell = SpellChecker()
 
 def deskew_and_clean_image(pil_img):
-    """Tirchi photo ko seedha (deskew) karta hai aur mobile camera ki shadows hatata hai."""
+    """Tirchi photo ko seedha (deskew) karta hai aur errors se bachne ke liye safe line checking karta hai."""
     img = cv2.cvtColor(np.array(pil_img.convert('RGB')), cv2.COLOR_RGB2BGR)
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-    # 1. Tilt Angle pata lagayein
+    # 1. Tilt Angle pata lagayein safely
     inv = cv2.bitwise_not(gray)
     thresh = cv2.threshold(inv, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]
     kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (30, 5))
@@ -38,10 +38,12 @@ def deskew_and_clean_image(pil_img):
     angles = []
     if lines is not None:
         for line in lines:
-            x1, y1, x2, y2 = line[0]
-            angle = np.degrees(np.arctan2(y2 - y1, x2 - x1))
-            if -45 < angle < 45:
-                angles.append(angle)
+            # Safe unpacking check taaki TypeError kabhi na aaye
+            if len(line) > 0 and len(line[0]) == 4:
+                x1, y1, x2, y2 = line[0]
+                angle = np.degrees(np.arctan2(y2 - y1, x2 - x1))
+                if -45 < angle < 45:
+                    angles.append(angle)
 
     skew_angle = np.median(angles) if len(angles) > 0 else 0.0
 
@@ -116,7 +118,6 @@ def detect_and_draw_tables(pil_img, pdf_page):
             pdf_page.draw_line(fitz.Point(x + w / 2, y), fitz.Point(x + w / 2, y + h), color=(0, 0, 0), width=1)
 
 def create_table_and_layout_pdf(images, output_pdf_path):
-    """Deskew, Table Borders aur OCR Text ke sath exact layout wala PDF banata hai."""
     doc = fitz.open()
 
     for raw_img in images:
@@ -124,10 +125,8 @@ def create_table_and_layout_pdf(images, output_pdf_path):
         width, height = img.size
         page = doc.new_page(width=width, height=height)
 
-        # 1. Table borders draw karein
         detect_and_draw_tables(img, page)
 
-        # 2. OCR se text aur coordinates nikalein
         ocr_data = pytesseract.image_to_data(img, output_type=Output.DICT, lang='eng')
         n_boxes = len(ocr_data['text'])
 
@@ -148,7 +147,6 @@ def create_table_and_layout_pdf(images, output_pdf_path):
                     'height': ocr_data['height'][i]
                 })
 
-        # 3. Text ko exact position aur font-size ke sath insert karein
         for key, words in lines.items():
             x0 = words[0]['left']
             y0 = min(w['top'] for w in words)
@@ -165,7 +163,6 @@ def create_table_and_layout_pdf(images, output_pdf_path):
     doc.close()
 
 def convert_pdf_to_word(pdf_path, word_path):
-    """PDF ko editable Word (.docx) me convert karta hai."""
     cv = Converter(pdf_path)
     cv.convert(word_path, start=0, end=None)
     cv.close()
@@ -173,7 +170,6 @@ def convert_pdf_to_word(pdf_path, word_path):
 def process_files():
     files_processed = 0
     for filename in os.listdir(INPUT_DIR):
-        # Placeholder files ko ignore karein
         if filename.startswith('.') or filename.endswith('.txt'):
             continue
 
@@ -200,7 +196,6 @@ def process_files():
         create_table_and_layout_pdf(images, pdf_out)
         convert_pdf_to_word(pdf_out, word_out)
 
-        # Process hone ke baad input file ko archive folder me move kar dein
         shutil.move(filepath, os.path.join(ARCHIVE_DIR, filename))
         files_processed += 1
         print(f"Successfully generated: {pdf_out} & {word_out}")
