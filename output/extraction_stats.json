@@ -1,0 +1,17 @@
+{
+  "document_name": "Spoken_English_Guru_Practice_Exercises_Quizzes_eBook_1.pdf",
+  "total_pdf_pages": 788,
+  "pages_requested_count": 788,
+  "pages_processed_count": 788,
+  "page_coverage_percent": 100.0,
+  "digital_pages_count": 788,
+  "ocr_pages_count": 0,
+  "average_confidence_score": 100.0,
+  "total_words_extracted": 225637,
+  "total_characters_extracted": 1239451,
+  "total_tables_detected": 2,
+  "total_mcqs_detected": 1580,
+  "total_exercises_detected": 598,
+  "total_processing_time_seconds": 162.61,
+  "pages_per_minute": 290.76
+}

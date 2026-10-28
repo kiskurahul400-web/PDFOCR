@@ -1,0 +1,7100 @@
+{
+  "report_generated_at": "2026-10-28T15:11:10.710344+00:00",
+  "total_pages_evaluated": 788,
+  "pages_flagged_for_review_count": 0,
+  "pages_flagged_for_review": [],
+  "pages_review": [
+    {
+      "page_number": 1,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 51,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 2,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 21,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 3,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 352,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 4,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 169,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 5,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 103,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 6,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 323,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 7,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 367,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 8,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 391,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 9,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 340,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 10,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 230,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 11,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 267,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 12,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 244,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 13,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 377,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 14,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 402,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 15,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 424,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 16,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 366,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 17,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 190,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 18,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 322,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 19,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 333,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 20,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 290,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 21,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 300,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 22,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 352,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 23,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 319,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 24,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 340,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 25,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 381,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 26,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 324,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 27,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 371,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 28,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 220,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 29,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 288,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 30,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 279,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 31,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 284,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 32,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 165,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 33,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 158,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 34,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 164,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 35,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 161,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 36,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 148,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 37,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 153,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 38,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 145,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 39,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 291,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 40,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 305,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 41,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 308,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 42,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 298,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 43,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 300,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 44,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 274,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 45,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 179,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 46,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 235,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 47,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 335,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 48,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 169,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 49,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 258,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 50,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 132,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 51,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 207,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 52,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 408,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 53,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 280,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 54,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 92,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 55,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 227,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 56,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 249,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 57,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 242,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 58,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 252,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 59,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 328,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 60,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 372,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 61,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 313,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 62,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 377,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 63,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 326,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 64,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 252,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 65,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 66,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 272,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 67,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 257,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 68,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 314,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 69,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 70,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 420,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 71,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 440,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 72,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 466,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 73,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 378,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 74,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 75,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 386,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 76,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 391,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 77,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 368,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 78,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 408,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 79,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 214,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 80,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 278,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 81,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 289,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 82,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 334,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 83,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 395,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 84,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 388,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 85,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 346,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 86,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 262,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 87,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 295,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 88,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 409,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 89,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 90,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 382,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 91,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 403,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 92,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 368,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 93,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 394,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 94,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 366,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 95,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 318,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 96,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 377,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 97,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 388,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 98,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 441,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 99,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 384,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 100,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 409,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 101,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 353,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 102,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 387,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 103,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 351,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 104,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 360,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 105,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 249,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 106,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 303,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 107,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 278,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 108,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 295,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 109,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 256,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 110,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 243,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 111,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 256,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 112,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 270,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 113,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 344,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 114,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 331,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 115,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 356,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 116,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 300,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 117,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 296,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 118,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 437,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 119,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 400,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 120,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 337,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 121,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 363,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 122,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 320,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 123,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 282,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 124,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 291,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 125,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 299,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 126,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 245,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 127,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 249,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 128,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 299,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 129,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 353,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 130,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 336,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 131,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 355,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 132,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 334,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 133,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 391,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 134,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 352,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 135,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 246,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 136,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 269,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 137,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 324,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 138,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 332,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 139,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 364,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 140,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 367,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 141,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 402,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 142,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 402,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 143,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 278,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 144,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 306,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 145,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 195,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 146,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 348,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 147,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 311,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 148,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 311,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 149,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 375,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 150,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 386,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 151,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 391,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 152,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 415,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 153,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 357,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 154,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 338,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 155,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 462,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 156,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 263,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 157,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 305,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 158,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 307,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 159,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 356,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 160,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 313,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 161,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 268,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 162,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 297,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 163,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 318,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 164,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 297,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 165,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 308,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 166,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 264,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 167,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 332,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 168,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 307,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 169,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 333,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 170,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 274,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 171,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 318,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 172,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 328,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 173,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 339,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 174,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 288,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 175,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 281,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 176,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 361,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 177,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 379,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 178,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 373,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 179,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 406,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 180,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 380,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 181,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 390,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 182,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 378,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 183,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 403,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 184,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 382,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 185,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 429,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 186,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 459,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 187,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 447,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 188,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 476,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 189,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 456,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 190,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 528,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 191,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 416,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 192,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 448,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 193,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 542,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 194,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 495,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 195,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 436,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 196,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 426,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 197,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 450,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 198,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 165,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 199,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 348,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 200,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 442,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 201,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 405,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 202,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 444,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 203,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 442,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 204,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 522,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 205,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 511,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 206,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 469,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 207,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 477,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 208,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 499,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 209,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 459,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 210,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 501,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 211,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 485,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 212,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 178,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 213,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 197,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 214,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 274,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 215,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 276,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 216,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 398,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 217,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 309,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 218,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 325,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 219,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 307,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 220,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 368,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 221,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 322,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 222,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 341,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 223,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 290,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 224,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 348,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 225,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 394,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 226,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 476,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 227,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 321,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 228,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 291,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 229,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 307,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 230,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 320,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 231,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 452,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 232,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 389,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 233,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 429,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 234,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 354,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 235,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 357,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 236,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 343,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 237,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 371,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 238,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 313,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 239,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 309,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 240,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 375,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 241,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 365,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 242,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 324,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 243,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 293,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 244,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 278,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 245,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 294,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 246,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 249,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 247,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 243,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 248,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 220,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 249,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 200,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 250,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 261,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 251,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 260,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 252,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 369,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 253,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 485,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 254,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 471,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 255,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 502,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 256,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 528,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 257,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 507,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 258,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 532,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 259,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 514,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 260,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 486,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 261,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 512,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 262,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 541,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 263,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 493,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 264,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 324,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 265,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 359,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 266,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 363,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 267,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 321,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 268,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 294,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 269,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 290,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 270,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 279,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 271,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 294,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 272,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 304,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 273,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 187,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 274,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 319,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 275,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 393,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 276,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 429,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 277,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 345,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 278,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 344,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 279,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 232,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 280,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 352,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 281,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 356,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 282,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 342,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 283,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 394,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 284,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 377,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 285,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 382,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 286,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 287,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 373,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 288,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 409,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 289,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 349,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 290,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 401,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 291,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 423,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 292,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 407,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 293,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 352,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 294,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 347,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 295,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 403,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 296,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 381,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 297,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 396,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 298,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 397,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 299,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 400,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 300,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 281,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 301,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 297,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 302,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 332,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 303,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 345,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 304,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 319,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 305,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 316,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 306,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 405,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 307,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 387,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 308,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 371,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 309,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 377,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 310,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 358,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 311,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 374,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 312,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 415,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 313,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 420,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 314,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 282,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 315,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 233,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 316,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 276,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 317,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 305,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 318,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 314,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 319,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 297,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 320,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 292,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 321,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 43,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 322,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 306,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 323,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 396,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 324,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 365,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 325,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 356,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 326,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 350,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 327,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 368,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 328,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 386,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 329,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 190,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 330,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 340,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 331,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 335,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 332,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 333,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 430,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 334,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 475,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 335,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 369,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 336,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 270,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 337,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 321,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 338,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 342,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 339,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 317,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 340,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 293,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 341,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 360,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 342,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 400,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 343,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 416,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 344,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 377,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 345,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 369,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 346,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 174,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 347,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 330,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 348,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 402,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 349,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 368,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 350,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 407,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 351,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 349,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 352,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 370,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 353,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 339,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 354,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 330,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 355,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 292,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 356,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 299,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 357,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 377,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 358,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 397,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 359,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 212,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 360,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 312,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 361,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 398,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 362,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 262,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 363,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 347,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 364,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 251,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 365,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 341,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 366,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 398,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 367,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 362,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 368,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 397,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 369,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 435,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 370,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 398,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 371,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 379,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 372,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 375,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 373,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 382,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 374,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 364,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 375,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 365,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 376,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 406,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 377,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 439,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 378,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 426,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 379,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 331,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 380,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 342,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 381,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 324,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 382,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 340,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 383,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 360,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 384,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 341,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 385,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 347,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 386,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 387,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 387,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 361,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 388,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 363,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 389,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 350,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 390,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 330,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 391,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 369,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 392,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 393,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 365,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 394,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 368,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 395,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 324,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 396,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 354,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 397,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 383,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 398,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 389,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 399,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 403,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 400,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 389,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 401,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 81,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 402,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 316,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 403,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 361,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 404,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 422,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 405,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 369,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 406,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 393,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 407,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 446,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 408,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 371,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 409,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 389,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 410,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 419,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 411,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 386,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 412,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 384,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 413,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 422,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 414,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 259,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 415,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 403,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 416,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 76,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 417,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 464,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 418,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 354,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 419,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 111,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 420,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 175,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 421,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 173,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 422,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 187,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 423,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 177,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 424,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 191,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 425,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 186,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 426,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 175,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 427,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 186,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 428,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 187,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 429,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 175,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 430,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 177,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 431,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 200,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 432,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 187,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 433,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 181,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 434,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 179,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 435,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 195,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 436,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 180,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 437,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 178,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 438,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 113,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 439,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 123,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 440,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 140,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 441,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 144,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 442,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 146,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 443,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 149,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 444,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 148,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 445,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 121,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 446,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 131,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 447,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 129,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 448,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 129,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 449,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 129,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 450,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 114,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 451,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 343,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 452,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 373,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 453,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 348,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 454,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 305,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 455,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 382,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 456,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 388,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 457,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 387,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 458,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 459,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 314,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 460,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 296,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 461,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 274,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 462,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 283,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 463,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 262,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 464,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 264,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 465,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 306,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 466,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 339,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 467,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 312,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 468,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 265,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 469,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 322,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 470,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 288,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 471,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 350,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 472,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 338,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 473,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 311,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 474,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 47,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 475,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 90,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 476,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 217,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 477,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 39,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 478,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 176,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 479,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 181,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 480,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 167,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 481,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 232,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 482,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 271,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 483,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 207,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 484,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 150,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 485,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 169,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 486,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 146,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 487,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 131,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 488,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 154,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 489,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 178,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 490,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 188,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 491,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 194,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 492,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 214,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 493,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 226,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 494,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 225,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 495,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 187,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 496,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 157,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 497,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 181,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 498,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 172,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 499,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 200,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 500,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 179,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 501,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 135,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 502,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 175,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 503,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 209,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 504,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 176,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 505,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 157,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 506,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 140,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 507,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 203,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 508,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 164,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 509,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 177,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 510,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 202,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 511,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 235,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 512,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 196,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 513,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 233,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 514,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 123,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 515,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 230,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 516,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 172,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 517,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 140,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 518,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 167,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 519,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 240,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 520,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 165,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 521,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 204,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 522,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 220,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 523,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 165,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 524,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 209,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 525,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 249,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 526,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 189,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 527,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 193,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 528,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 228,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 529,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 258,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 530,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 185,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 531,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 175,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 532,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 216,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 533,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 201,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 534,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 163,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 535,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 207,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 536,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 206,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 537,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 146,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 538,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 156,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 539,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 168,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 540,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 170,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 541,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 222,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 542,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 207,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 543,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 166,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 544,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 169,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 545,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 166,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 546,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 227,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 547,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 227,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 548,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 267,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 549,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 184,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 550,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 175,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 551,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 181,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 552,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 155,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 553,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 157,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 554,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 240,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 555,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 247,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 556,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 254,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 557,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 206,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 558,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 183,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 559,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 166,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 560,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 204,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 561,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 170,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 562,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 171,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 563,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 183,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 564,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 216,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 565,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 242,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 566,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 168,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 567,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 157,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 568,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 158,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 569,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 134,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 570,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 158,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 571,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 160,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 572,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 185,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 573,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 231,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 574,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 302,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 575,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 285,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 576,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 272,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 577,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 296,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 578,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 288,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 579,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 310,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 580,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 333,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 581,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 272,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 582,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 233,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 583,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 185,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 584,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 183,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 585,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 152,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 586,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 140,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 587,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 112,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 588,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 194,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 589,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 227,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 590,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 225,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 591,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 249,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 592,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 246,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 593,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 242,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 594,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 207,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 595,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 210,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 596,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 195,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 597,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 181,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 598,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 162,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 599,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 229,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 600,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 220,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 601,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 123,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 602,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 232,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 603,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 220,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 604,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 278,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 605,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 211,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 606,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 198,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 607,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 211,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 608,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 272,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 609,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 238,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 610,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 96,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 611,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 152,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 612,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 156,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 613,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 145,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 614,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 108,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 615,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 106,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 616,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 195,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 617,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 166,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 618,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 185,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 619,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 227,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 620,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 206,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 621,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 222,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 622,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 169,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 623,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 143,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 624,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 142,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 625,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 189,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 626,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 174,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 627,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 207,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 628,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 148,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 629,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 147,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 630,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 206,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 631,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 138,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 632,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 138,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 633,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 134,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 634,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 215,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 635,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 201,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 636,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 190,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 637,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 205,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 638,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 237,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 639,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 139,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 640,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 137,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 641,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 149,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 642,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 162,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 643,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 164,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 644,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 118,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 645,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 142,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 646,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 140,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 647,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 286,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 648,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 226,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 649,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 222,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 650,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 236,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 651,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 244,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 652,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 252,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 653,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 206,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 654,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 193,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 655,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 183,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 656,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 189,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 657,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 173,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 658,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 170,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 659,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 216,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 660,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 169,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 661,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 202,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 662,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 216,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 663,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 256,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 664,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 120,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 665,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 107,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 666,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 224,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 667,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 255,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 668,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 206,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 669,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 166,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 670,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 156,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 671,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 169,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 672,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 135,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 673,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 120,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 674,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 119,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 675,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 133,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 676,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 177,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 677,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 157,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 678,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 146,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 679,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 217,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 680,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 215,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 681,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 136,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 682,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 164,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 683,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 148,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 684,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 141,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 685,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 136,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 686,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 65,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 687,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 376,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 688,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 168,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 689,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 466,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 690,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 173,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 691,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 288,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 692,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 251,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 693,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 260,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 694,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 396,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 695,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 209,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 696,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 324,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 697,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 384,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 698,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 409,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 699,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 426,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 700,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 308,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 701,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 183,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 702,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 179,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 703,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 99,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 704,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 341,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 705,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 412,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 706,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 361,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 707,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 69,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 708,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 451,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 709,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 363,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 710,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 122,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 711,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 448,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 712,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 285,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 713,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 102,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 714,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 464,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 715,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 365,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 716,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 222,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 717,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 432,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 718,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 364,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 719,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 297,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 720,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 246,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 721,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 344,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 722,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 471,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 723,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 380,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 724,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 329,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 725,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 279,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 726,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 48,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 727,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 336,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 728,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 382,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 729,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 439,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 730,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 158,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 731,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 418,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 732,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 291,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 733,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 277,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 734,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 126,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 735,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 434,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 736,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 347,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 737,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 321,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 738,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 399,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 739,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 390,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 740,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 272,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 741,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 219,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 742,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 287,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 743,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 441,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 744,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 296,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 745,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 468,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 746,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 454,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 747,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 295,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 748,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 294,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 749,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 375,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 750,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 437,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 751,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 246,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 752,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 414,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 753,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 330,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 754,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 343,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 755,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 187,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 756,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 428,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 757,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 413,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 758,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 284,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 759,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 48,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 760,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 318,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 761,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 256,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 762,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 443,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 763,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 312,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 764,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 283,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 765,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 108,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 766,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 317,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 767,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 285,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 768,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 149,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 769,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 335,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 770,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 223,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 771,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 63,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 772,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 392,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 773,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 283,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 774,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 252,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 775,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 258,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 776,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 274,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 777,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 264,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 778,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 236,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 779,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 209,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 780,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 218,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 781,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 245,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 782,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 230,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 783,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 209,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 784,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 238,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 785,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 246,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 786,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 273,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 787,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 247,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    },
+    {
+      "page_number": 788,
+      "extraction_type": "digital",
+      "confidence_score": 100.0,
+      "word_count": 206,
+      "flagged_for_review": false,
+      "low_confidence_words_count": 0,
+      "sample_suspect_words": []
+    }
+  ]
+}
