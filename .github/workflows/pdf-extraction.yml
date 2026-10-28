@@ -98,8 +98,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .checkpoints
-          key: pdf-checkpoints-${{ hashFiles(inputs.pdf_path || 'input/*.pdf') }}
+          key: pdf-checkpoints-${{ hashFiles(inputs.pdf_path || 'input/*.pdf') }}-${{ github.run_id }}
           restore-keys: |
+            pdf-checkpoints-${{ hashFiles(inputs.pdf_path || 'input/*.pdf') }}-
             pdf-checkpoints-
 
       - name: Execute PDF Extraction and OCR Pipeline
@@ -132,6 +133,15 @@ jobs:
           retention-days: ${{ fromJSON(inputs.artifact_retention_days || '30') }}
           if-no-files-found: warn
 
+      - name: Upload Checkpoints as Artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: pdf-extraction-checkpoints-run${{ github.run_number }}
+          path: .checkpoints/
+          retention-days: 7
+          if-no-files-found: ignore
+
       - name: Optionally Commit Results to GitHub
         if: success() && inputs.commit_results == true
         run: |
@@ -142,5 +152,6 @@ jobs:
             echo "No changes in output files to commit."
           else
             git commit -m "Add extraction results for run #${{ github.run_number }} [skip ci]"
+            git pull --rebase origin main || true
             git push origin main || echo "::warning::Git push failed. Artifacts remain safely preserved in workflow artifacts."
           fi
