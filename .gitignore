@@ -1,0 +1,24 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Intermediate checkpoints & temporary processing files
+.checkpoints/
+temp_images/
+*.tmp
+
+# Root copy of PDF (tracked under input/ directory)
+/Spoken_English_Guru_Practice_Exercises_Quizzes_eBook_1.pdf
+
+# OS artifacts
+.DS_Store
+Thumbs.db

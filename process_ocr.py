@@ -184,7 +184,23 @@ def process_files():
         if ext in ['.png', '.jpg', '.jpeg']:
             images = [Image.open(filepath)]
         elif ext == '.pdf':
-            images = convert_from_path(filepath, dpi=300)
+            print(f"Delegating PDF processing to batch extraction engine for {filename}...")
+            try:
+                from scripts.extract_pdf import run_pipeline
+                run_pipeline(
+                    pdf_path=filepath,
+                    output_dir="output",
+                    page_range_str="all",
+                    languages="hin+eng",
+                    dpi=300,
+                    batch_size=25,
+                    resume=True
+                )
+                files_processed += 1
+                print(f"Successfully processed PDF: {filepath} -> outputs in 'output/' directory.")
+            except Exception as pdf_err:
+                print(f"Error processing PDF: {pdf_err}")
+            continue
         else:
             print(f"Skipping unsupported file: {filename}")
             continue

@@ -1,0 +1,146 @@
+name: PDF Extraction and OCR Processing
+
+"on":
+  workflow_dispatch:
+    inputs:
+      pdf_path:
+        description: 'Path to input PDF file (e.g. input/Spoken_English_Guru_Practice_Exercises_Quizzes_eBook_1.pdf)'
+        required: false
+        default: 'input/Spoken_English_Guru_Practice_Exercises_Quizzes_eBook_1.pdf'
+        type: string
+      page_range:
+        description: 'Page range to process (e.g. "1-25", "1-50", "all")'
+        required: false
+        default: '1-25'
+        type: string
+      ocr_languages:
+        description: 'Tesseract OCR languages (e.g. "hin+eng")'
+        required: false
+        default: 'hin+eng'
+        type: string
+      dpi:
+        description: 'Image rendering DPI for OCR'
+        required: false
+        default: '300'
+        type: string
+      batch_size:
+        description: 'Number of pages per batch checkpoint'
+        required: false
+        default: '25'
+        type: string
+      commit_results:
+        description: 'Commit generated output files back to repository'
+        required: false
+        default: false
+        type: boolean
+      artifact_retention_days:
+        description: 'Number of days to retain downloadable artifacts'
+        required: false
+        default: '30'
+        type: string
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  extract_pdf_content:
+    name: PDF Extraction & OCR (GitHub Runner)
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install System OCR Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            tesseract-ocr \
+            tesseract-ocr-hin \
+            tesseract-ocr-eng \
+            poppler-utils \
+            libtesseract-dev \
+            libgl1 \
+            libglib2.0-0
+
+      - name: Verify Tesseract & OCR Language Models
+        run: |
+          echo "=== Tesseract Version ==="
+          tesseract --version
+          echo "=== Available OCR Languages ==="
+          tesseract --list-langs
+          if ! tesseract --list-langs | grep -q "hin"; then
+            echo "ERROR: Hindi language model (hin) not found!" >&2
+            exit 1
+          fi
+          if ! tesseract --list-langs | grep -q "eng"; then
+            echo "ERROR: English language model (eng) not found!" >&2
+            exit 1
+          fi
+          echo "Tesseract OCR and Hindi/English language models verified successfully."
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Restore Checkpoints Cache
+        uses: actions/cache@v4
+        with:
+          path: .checkpoints
+          key: pdf-checkpoints-${{ hashFiles(inputs.pdf_path || 'input/*.pdf') }}
+          restore-keys: |
+            pdf-checkpoints-
+
+      - name: Execute PDF Extraction and OCR Pipeline
+        run: |
+          python3 scripts/extract_pdf.py \
+            --pdf "${{ inputs.pdf_path }}" \
+            --pages "${{ inputs.page_range }}" \
+            --lang "${{ inputs.ocr_languages }}" \
+            --dpi "${{ inputs.dpi }}" \
+            --batch-size "${{ inputs.batch_size }}" \
+            --output-dir "output" \
+            --checkpoint-dir ".checkpoints"
+
+      - name: Validate Extraction Integrity & Schema
+        run: |
+          python3 scripts/validate_extraction.py --output-dir "output"
+
+      - name: Upload Output Files as Artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: pdf-extraction-artifacts-run${{ github.run_number }}
+          path: |
+            output/extracted_content.json
+            output/extracted_text.txt
+            output/ocr_review_report.json
+            output/extraction_manifest.json
+            output/extraction_stats.json
+            output/extraction.log
+          retention-days: ${{ fromJSON(inputs.artifact_retention_days || '30') }}
+          if-no-files-found: warn
+
+      - name: Optionally Commit Results to GitHub
+        if: success() && inputs.commit_results == true
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --staged --quiet; then
+            echo "No changes in output files to commit."
+          else
+            git commit -m "Add extraction results for run #${{ github.run_number }} [skip ci]"
+            git push origin main || echo "::warning::Git push failed. Artifacts remain safely preserved in workflow artifacts."
+          fi
